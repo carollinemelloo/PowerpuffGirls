@@ -5,8 +5,6 @@ Um jogo 2D desenvolvido em **Python** utilizando a biblioteca **Pygame**. O joga
 ## 🚀 Requisitos
 
 Certifique-se de ter o Python instalado. Você precisará instalar a biblioteca `pygame` via terminal:
-
-```bash
 pip install pygame
 
 ## 📂 Estrutura do Projeto
